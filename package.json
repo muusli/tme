@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/jbeckmann1/tme/issues"
   },
-  "homepage": "https://github.com/jbeckmann1/tme#readme"
+  "homepage": "https://github.com/jbeckmann1/tme#readme",
+  "dependencies": {
+    "chalk": "^4.1.0"
+  }
 }
